@@ -1,0 +1,21 @@
+{
+    "name": "tackk/opauth-edmodo",
+    "description": "Edmodo Strategy for the Opauth Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Horrigan",
+            "email": "dh@tackk.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2.0",
+        "opauth/opauth": ">=0.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "."
+        }
+    }
+}
